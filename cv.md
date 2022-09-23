@@ -7,7 +7,7 @@
 My goal is to become a normal Kent
 
 ---
-### My strengths
+### My strengths.
 * I can eat without hands
 * I'm catching on on the fly
 * purposeful
