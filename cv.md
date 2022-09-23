@@ -27,7 +27,7 @@ I have no developer experience, but I've always liked programming as a hobby, so
 
 ----
 ###### Work experience
-rs school first experience
+rs school first experience.
 
 ---
 ###### Education
