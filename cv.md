@@ -38,4 +38,4 @@ __Specialty__:Engineering and psychological support of information technologies.
 __Qualification:__ Informatics and programming technologies.
 
 ---
-### English: A2
+### English: A2.
